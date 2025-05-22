@@ -1,8 +1,8 @@
 # Лабораторные работы по курсу "Машинное обучение"
 Студент: Малов Алексей гр. 24222
 
-| № | Лаба | Датасет | Сдано |
+| № | Лаба | Датасет | Код | Сдано |
 |----------|----------|----------|----------|
 | 1.1 |  Построение линии регрессии | | ✅
 | 1.2 | Классификационное дерево | |  ✅
-| 1.3 | Рандомный лес   | https://www.kaggle.com/datasets/elikplim/car-evaluation-data-set | ✅
+| 1.3 | Рандомный лес   | https://www.kaggle.com/datasets/elikplim/car-evaluation-data-set | https://github.com/L3XxXa/ml-mag/blob/main/Random%20forest/random_forest.ipynb | ✅
