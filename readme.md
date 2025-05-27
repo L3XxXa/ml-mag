@@ -3,7 +3,7 @@
 
 | № | Лаба | Датасет | Код | Сдано |
 |----------|----------|----------|----------|----------|
-| 1.1 |  Построение линии регрессии | | | ✅
+| 1.1 |  Построение линии регрессии | [тык](https://www.kaggle.com/code/sudhirnl7/linear-regression-tutorial/notebook?select=insurance.csv) | [тык](https://github.com/L3XxXa/ml-mag/blob/main/Linear%20regression/linear_regression.ipynb) | ✅
 | 1.2 | Классификационное дерево | [тык](https://www.kaggle.com/code/prashant111/eda-logistic-regression-pca?select=adult.csv) | [тык](https://github.com/L3XxXa/ml-mag/blob/main/Tree%20classifier/tree_classifier.ipynb) | ✅
 | 1.3 | Рандомный лес   | [тык](https://www.kaggle.com/datasets/elikplim/car-evaluation-data-set) | [тык](https://github.com/L3XxXa/ml-mag/blob/main/Random%20forest/random_forest.ipynb) | ✅
 | 2.1 | Логистическая регрессия | [тык](https://www.kaggle.com/code/prashant111/eda-logistic-regression-pca?select=adult.csv) | [тык](https://github.com/L3XxXa/ml-mag/blob/main/Logistic%20regression/logistic_regression.ipynb) | ✅
