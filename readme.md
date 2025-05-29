@@ -14,3 +14,4 @@
 | 3.3 | DBSCAN | сгенерирован | [тык](https://github.com/L3XxXa/ml-mag/blob/main/DBSCAN/DBSCAN.ipynb) | ✅
 | 4.1 | PCA | Использовался в наивном Байесе | [тык](https://github.com/L3XxXa/ml-mag/blob/main/Naive%20Bayes%20and%20PCA/naive_bayes_pca.ipynb) | ✅
 | 4.2 |  Нейронная сеть прямого распространения, классификация | [тык](https://www.kaggle.com/code/prashant111/eda-logistic-regression-pca?select=adult.csv) | [тык](https://github.com/L3XxXa/ml-mag/blob/main/NN%20Classification/nn_classification.ipynb) | ✅
+| 4.3 | Нейронная сеть прямого распространения, регрессор | [тык](https://www.kaggle.com/code/sudhirnl7/linear-regression-tutorial/notebook?select=insurance.csv) | [тык](https://github.com/L3XxXa/ml-mag/blob/main/NN%20Linear%20regression/nn_linear_regression.ipynb) | ✅
